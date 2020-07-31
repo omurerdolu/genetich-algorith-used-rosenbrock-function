@@ -1,0 +1,34 @@
+c:\users\furkan\documents\visual studio 2015\Projects\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\153311040_Genetik_Algoritma.exe.config
+c:\users\furkan\documents\visual studio 2015\Projects\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\153311040_Genetik_Algoritma.exe
+c:\users\furkan\documents\visual studio 2015\Projects\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\153311040_Genetik_Algoritma.pdb
+c:\users\furkan\documents\visual studio 2015\Projects\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.csprojResolveAssemblyReference.cache
+c:\users\furkan\documents\visual studio 2015\Projects\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\_153311040_Genetik_Algoritma.Form1.resources
+c:\users\furkan\documents\visual studio 2015\Projects\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\_153311040_Genetik_Algoritma.Properties.Resources.resources
+c:\users\furkan\documents\visual studio 2015\Projects\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.csproj.GenerateResource.Cache
+c:\users\furkan\documents\visual studio 2015\Projects\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.exe
+c:\users\furkan\documents\visual studio 2015\Projects\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.pdb
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\153311040_Genetik_Algoritma.exe.config
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.exe
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.pdb
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\153311040_Genetik_Algoritma.exe
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\153311040_Genetik_Algoritma.pdb
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\mscorlib.dll
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\tr\mscorlib.resources.dll
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\normidna.nlp
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\normnfc.nlp
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\normnfd.nlp
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\normnfkc.nlp
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\normnfkd.nlp
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.csprojResolveAssemblyReference.cache
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\_153311040_Genetik_Algoritma.Form1.resources
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\_153311040_Genetik_Algoritma.Properties.Resources.resources
+C:\Users\cspr\Desktop\YAPAYZEKA\yapay_zeka\yapay_zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\ömür\Yapay Zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\153311040_Genetik_Algoritma.exe.config
+C:\Users\LENOVO\Desktop\ömür\Yapay Zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\153311040_Genetik_Algoritma.exe
+C:\Users\LENOVO\Desktop\ömür\Yapay Zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\bin\Debug\153311040_Genetik_Algoritma.pdb
+C:\Users\LENOVO\Desktop\ömür\Yapay Zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\ömür\Yapay Zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\_153311040_Genetik_Algoritma.Form1.resources
+C:\Users\LENOVO\Desktop\ömür\Yapay Zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\_153311040_Genetik_Algoritma.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\ömür\Yapay Zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\ömür\Yapay Zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.exe
+C:\Users\LENOVO\Desktop\ömür\Yapay Zeka\153311040_Genetik_Algoritma\153311040_Genetik_Algoritma\obj\Debug\153311040_Genetik_Algoritma.pdb
